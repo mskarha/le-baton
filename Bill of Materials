@@ -1,0 +1,31 @@
+## Bill of Materials:
+
+Qty   | Type                | Description 
+------|---------------------|-----------------------------------------------------------------------------------
+03    | mcu                 | [Arduino Nano 33 Iot](https://store.arduino.cc/usa/nano-33-iot) 
+01    | sensor              | [Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055](https://www.adafruit.com/product/2472)
+01    | sensor              | [FSR 408](https://www.robotshop.com/ca/en/interlink-24-long-fsr.html)
+01    | sensor              | [buzz elem. piezo STD](https://www.digikey.ca/product-detail/en/cui-inc/CEB-20D64/102-1126-ND/412385)
+01    | electronics         | [microcontroller Lolin D32 Pro](https://wiki.wemos.cc/products:d32:d32_pro)
+01    | electronics         | [0.1uF capacitor](https://www.digikey.ca/product-detail/en/kemet/C320C104J5R5TA7301/399-9867-1-ND/3726105)
+01    | electronics         | 1K resistor
+01    | electronics         | [10K resistor](https://www.digikey.ca/product-detail/en/CFM12JT10K0/S10KHCT-ND/2617547/?itemSeq=307630589)
+01    | electronics         | [2M resistor](https://www.digikey.ca/product-detail/en/CFM12JT2M00/S2MHCT-ND/2617413/?itemSeq=307631009)
+01    | electronics         | [Diode 1N4004](https://www.digikey.ca/product-detail/en/1N4004-TP/1N4004-TPMSCT-ND/773691/?itemSeq=307634719)
+01    | electronics         | [10K potentiometer](https://www.digikey.com/products/en?mpart=PV36W103C01B00&v=118)
+01    | electronics         | [LM358P Opamp](https://www.digikey.ca/products/en?keywords=296-1395-5-ND)
+01    | electronics         | [button](https://www.digikey.ca/product-detail/en/c-k/PTS125SM43-2-LFS/CKN9100-ND/1146743)
+02    | electronics         | [SH1.0 cables](https://www.aliexpress.com/item/32877217306.html)
+02    | electronics         | [Breadboards](https://www.digikey.ca/product-detail/en/sparkfun-electronics/PRT-08808/1568-1652-ND/7387401)
+30cm  | manufacturing parts | PVC Tube split in 2 lenghtwise
+~85cm | manufacturing parts | Copper adhesive tape
+01    | manufacturing parts | Li-Po Battery (min 1000mA)
+01    | manufacturing parts | [ON-OFF rocker switch](https://www.digikey.ca/product-detail/en/RA1113112R/EG5619-ND/3778055/?itemSeq=307636370)
+~35cm | manufacturing parts | Heat shrink tube
+01    | manufacturing parts | end-cup with microcontroller base
+01    | manufacturing parts | end-cup with for the ON-OFF switch and hold battery
+02    | manufacturing parts | 3D printed bases for Capsense
+02    | manufacturing parts | [3D printed bases for IMU](/images/SopraninoIMUparts.jpg)
+11    | manufacturing parts | [M2 Mounting Screws](https://www.digikey.ca/product-detail/en/MPMS+002+0008+PH/H739-ND/274950/?itemSeq=307635387)
+11    | manufacturing parts | [M2 bolts](https://www.digikey.ca/product-detail/en/MHNZ+002+4/H761-ND/274972/?itemSeq=307635458)
+01    | manufacturing parts | [foam sheet](https://www.amazon.ca/Craft-Foam-Sheets-Assorted-Colours/dp/B005EQPRM6)
