@@ -19,5 +19,5 @@ Qty   | Type                | Description
 02    | electronics         | [Female DC Power adapter - 2.1mm jack to screw terminal block](https://www.adafruit.com/product/368#description)
 03    | electronics         | USB-A to micro-USB cable
 N/A   | manufacturing parts | 3d printed parts found in /le-baton/STL files, I used SLS from hubs.com with Nylon PA-12 filament 
->= 12 | manufacturing parts | M2.5 Mounting screws, nuts
+12+   | manufacturing parts | M2.5 Mounting screws, nuts
 N/A   | manufacturing parts | Somewhere/somehow to mount the control mechanism
