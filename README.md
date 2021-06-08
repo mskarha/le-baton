@@ -5,3 +5,5 @@ Le Bâton is a DMI built by Matt Skarha at the [Input Devices and Music Interact
 This repository hosts up-to-date firmware, software, and schematics for Le Bâton. Additional information about the project can be found in the NIME 2021 paper: 
 
 Skarha, M., Cusson, V., Frisson, C., Wanderley, M. M. (2021). Le Bâton: A Digital Musical Instrument Based on the Chaotic Triple Pendulum. In *Proceedings of the International Conference on New Interfaces for Musical Expression*. New York University Shanghai.
+
+[PubPub link](https://nime.pubpub.org/pub/uh1zfz1f/release/1)
