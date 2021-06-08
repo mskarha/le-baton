@@ -6,5 +6,5 @@ This repository hosts up-to-date firmware, software, and schematics for Le Bâto
 
 Skarha, M., Cusson, V., Frisson, C., Wanderley, M. M. (2021). Le Bâton: A Digital Musical Instrument Based on the Chaotic Triple Pendulum. In *Proceedings of the International Conference on New Interfaces for Musical Expression*. New York University Shanghai. [(PubPub link)](https://nime.pubpub.org/pub/uh1zfz1f/release/1)
 
+<img src="/img/electronics/IMG_20210131_174539.jpg" width="200">
 
-![le bâton](./img/electronics/IMG_20210131_174539.jpg "le bâton")
