@@ -11,7 +11,7 @@ Skarha, M., Cusson, V., Frisson, C., Wanderley, M. M. (2021). Le Bâton: A Digit
 
 ## Authors
 
-- [Matt Skarha](https://www.mattskarha.com)
+- [Matt Skarha](http://mattskarha.com/)
 - [Vincent Cusson](https://vincentcusson.github.io/)
 - [Christian Frisson](http://frisson.re/)
 - [Marcelo M. Wanderley](https://www.mcgill.ca/music/marcelo-m-wanderley)
